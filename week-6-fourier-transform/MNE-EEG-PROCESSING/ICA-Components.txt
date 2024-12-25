@@ -1,0 +1,37 @@
+Attempting to use ICA
+
+0 | Lateral Eye Movement | Remove
+
+1 | Regular Component | Keep
+
+2 | Regular Component | Keep
+
+3 | Regular Component | Keep
+
+4 | Regular Component | Keep.
+
+5 | Regular Component | Keep
+
+6 | Regular Component | Keep
+
+7 | Regular Component | Keep.
+
+8 | Regular Component | Keep
+
+9 | Regular Component | Keep
+
+10 | Noisy, muscle? | Remove
+
+11 | Regular Component | Keep
+
+12 | Eye Blink | Remove
+
+13 | Regular Component | Keep
+
+14 | Regular Component Keep
+
+15 | Regular Component | Keep
+
+16 | Regular Component | Keep
+
+17 | Lateral Eye Movement | Remove
